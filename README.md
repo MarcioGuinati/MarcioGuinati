@@ -25,8 +25,8 @@
   <a href="https://www.linkedin.com/in/marcio-guinati-b87322179/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?l=pt&amp;phone=5516992475333"/></a>
+  <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5516992475333" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link"/></a>
 
   <a href="https://www.facebook.com/marcio.euripedes/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor"/></a>
