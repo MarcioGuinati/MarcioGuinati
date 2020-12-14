@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, me chamo Marcio Guinati! Sou apaixonado por desenvolvimento Web, é de extrema importância dizer que essa área me faz feliz, todos os dias busco por aprendizagem para eu poder aprender constantemente.
+
+  Com 14 anos ingressei no meu primeiro emprego, minha principal função era registrar atendimentos, eu era desconhecedor em tudo relacionado a computação. Minhas dificuldades eram diárias, pensei até em desistir por me senti inferior aos outros, por não conseguir me desenvolver nessa área tão tecnológica. Anos se passaram, amadureci profissionalmente e criei uma admiração e paixão por desenvolvimento de software.<strong>Hoje atualmente estudo análise e desenvolvimento de sistemas</strong>.<br>
 </p>
 
 <p align="left">
