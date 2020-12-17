@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html, Css, Bootstrap, JavaScript, JSF, Java, JSP</strong>
+  🦄 Linguagens: <strong>Html, Css, JavaScript, JSF, Java, JSP</strong>
 </p>
 
 <p align="left">
