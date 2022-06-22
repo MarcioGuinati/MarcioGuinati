@@ -1,13 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Marcio Guinati! Sou apaixonado por desenvolvimento Web, é de extrema importância dizer que essa área me faz feliz, todos os dias busco por aprendizagem para eu poder aprender constantemente.
+  Analista de implantação de sistemas com 3 anos de experiência em instalações, suporte, treinamento análise de requisitos e treinamentos. Conhecimento em ERP de venda de produtos e prestação de serviço, passando por diversas áreas, tais elas como: fiscal, estoque/wms, marketing, comercial, operacional, gerencial, financeiro e rh.
 
-  Com 14 anos ingressei no meu primeiro emprego, minha principal função era registrar atendimentos, eu era desconhecedor em tudo relacionado a computação. Minhas dificuldades eram diárias, pensei até em desistir por me senti inferior aos outros, por não conseguir me desenvolver nessa área tão tecnológica. Anos se passaram, amadureci profissionalmente e criei uma admiração e paixão por desenvolvimento de software.<br>
+Amante da programação e buscando sempre se inovar e acompanhar o mercado, conhecimento em Html, Css, Js, Jquery, React, Bootstrap. Mysql. Ftp, SqlYog, Hospedagem, Git, Gitlab, Github e Bitbucket.
+
+Formado em Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html, Css, JavaScript, JSF, Java, JSP</strong>
+  🦄 Linguagens: <strong>Html, Css, Js, Jquery, React, Bootstrap. Mysql. Ftp, SqlYog, Hospedagem, Git, Gitlab, Github e Bitbucket.</strong>
 </p>
 
 <p align="left">
