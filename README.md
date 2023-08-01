@@ -9,11 +9,11 @@ Formado em Análise e Desenvolvimento de Sistemas pela faculdadeUnicesumar.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html, Css, Js, Jquery, React, Bootstrap. Mysql. Ftp, SqlYog, Hospedagem, Git, Gitlab, Github e Bitbucket.</strong>
+  🦄 Linguagens: <strong>Html, Css, Bootstrap, JavaScript, Git, React.js e Typescript</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Eclipse, Tomcat, FileZilla</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Eclipse, Tomcat, FTP</strong>
 </p>
 
 <p align="left">
@@ -29,10 +29,4 @@ Formado em Análise e Desenvolvimento de Sistemas pela faculdadeUnicesumar.<br>
 
   <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5516992475333" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link"/></a>
-
-  <a href="https://www.facebook.com/marcio.euripedes/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor"/></a>
-
-  <a href="https://www.instagram.com/marcioguinati" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link"/></a>
 </p>  
