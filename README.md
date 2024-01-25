@@ -29,4 +29,7 @@ Formado em Análise e Desenvolvimento de Sistemas pela faculdadeUnicesumar.<br>
 
   <a href="https://api.whatsapp.com/send?l=pt&amp;phone=5516992475333" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link"/></a>
+
+  <a href="https:devguinati.tech" alt="Site">
+  <img src="https://img.shields.io/badge/-web-00BFFF?style=flat-square&labelColor=00BFFF&logo=airplayvideo&logoColor=white&link"/></a>
 </p>  
