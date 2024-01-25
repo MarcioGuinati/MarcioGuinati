@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Analista de Sistemas com ampla experiência em implantação, levantamento de requisitos, regras de negócio e desenvolvimento de sistemas front-end. Meu conhecimento abrange diferentes áreas de um ERP, como fiscal, estoque/wms, marketing, comercial, operacional, gerencial, financeiro e RH. Estou comprometido em entregar soluções eficientes e inovadoras, buscando sempre aprendizado contínuo para contribuir com o crescimento e sucesso das empresas.
+Analista de Sistemas com ampla experiência em implantação, levantamento de requisitos, regras de negócio e desenvolvimento de sistemas front-end. Meu conhecimento abrange diferentes áreas de um ERP, como fiscal, estoque/wms, marketing, comercial, operacional, gerencial, financeiro e RH. Estou comprometido em entregar soluções eficientes e inovadoras, buscando sempre aprendizado contínuo para contribuir com o crescimento e sucesso das empresas.
 
 Atualmente, estou imerso em uma emocionante jornada de aprendizado no mundo da tecnologia, com um foco especial na área de Front-end. Minha busca por conhecimento me levou a dois importantes pilares educacionais: a B7 Web e a DIO Innovation.
 
-Formado em Análise e Desenvolvimento de Sistemas pela faculdadeUnicesumar.<br>
+Formado em Análise e Desenvolvimento de Sistemas pela faculdade Unicesumar.<br>
 </p>
 
 <p align="left">
