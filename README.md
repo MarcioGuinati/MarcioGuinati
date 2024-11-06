@@ -1,15 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-Como profissional graduado em Análise e Desenvolvimento de Sistemas, atualmente estou direcionando meus esforços para me destacar como Product Owner. Ao longo da minha carreira, desenvolvi uma sólida expertise em sistemas SaaS e ERP, desde a fase inicial de implantação até o desenvolvimento contínuo.
+Como profissional graduado em Análise e Desenvolvimento de Sistemas, desenvolvi uma sólida expertise em sistemas SaaS e ERP, desde a fase inicial de implantação até o desenvolvimento contínuo.
 
 Minha jornada profissional destaca-se pela gestão eficaz de projetos, integração de soluções e colaboração com equipes multifuncionais. Essa experiência me proporcionou uma compreensão aprofundada dos processos de negócios e das necessidades específicas das organizações.
 
-Com um foco incessante na entrega de soluções inovadoras e eficientes, estou entusiasmado em aplicar minha bagagem técnica e habilidades de comunicação para agregar valor como Product Owner na área de desenvolvimento. Estou comprometido em impulsionar a inovação, otimizar processos e oferecer resultados excepcionais.<br>
+Com um foco incessante na entrega de soluções inovadoras e eficientes, estou entusiasmado em aplicar minha bagagem técnica e habilidades de comunicação para agregar valor na área de desenvolvimento. Estou comprometido em impulsionar a inovação, otimizar processos e oferecer resultados excepcionais.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Html, Css, Bootstrap, JavaScript, Git, React.js e Typescript</strong>
+  🦄 Linguagens: <strong>Html, Css, Bootstrap, JavaScript, Git, React.js, Node, Typescript</strong>
 </p>
 
 <p align="left">
